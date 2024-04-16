@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../.bitnami/stackman/machines/xampp/volumes/root/htdocs/skripsweet"
+		},
+		{
+			"path": "../../program_skripsi"
+		},
+		{
+			"path": "../../../Downloads/Sentiment-Analysis-BTS-main"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../.bitnami/stackman/machines/xampp/volumes/root/htdocs/crud2login"
+		}
+	],
+	"settings": {}
+}
